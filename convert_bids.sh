@@ -116,9 +116,13 @@ if [ "${convertanat}" == "TRUE" ]; then
 	if [ $(ls "$anatomicaloutput"/*"${anat}".nii.gz | wc -l) -eq 1 ]; then
 		cp ${cpflags} "$anatomicaloutput"/*"${anat}".nii.gz "$bidsdir"/sub-"${subid}"/ses-"${sessid}"/anat/sub-"${subid}"_ses-"${sessid}"_T1w.nii.gz
 	else 
-		# print file paths in errorlog.txt if =~ 1 file; do not copy file
-		echo "ERROR: wrong number of files; files not copied"
+		# print file paths in errorlog.txt if =~ 1 file; copy both files
+		echo "ERROR: wrong number of files; all files copied"
 		ls "$anatomicaloutput"/*"${anat}".nii.gz >> $errorlog
+		t1w1=$(ls "$anatomicaloutput"/*"${anat}".nii.gz | head -1)
+		t1w2=$(ls "$anatomicaloutput"/*"${anat}".nii.gz | tail -1)
+		cp ${cpflags} "${tw1}" "$bidsdir"/sub-"${subid}"/ses-"${sessid}"/anat/sub-"${subid}"_ses-"${sessid}"_run-01_T1w.nii.gz
+		cp ${cpflags} "${tw2}" "$bidsdir"/sub-"${subid}"/ses-"${sessid}"/anat/sub-"${subid}"_ses-"${sessid}"_run-02_T1w.nii.gz
 	fi
 fi
 
