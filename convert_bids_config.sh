@@ -8,7 +8,7 @@
 # Set directory names
 archivedir="/projects/dsnlab/tag/archive"
 dicomdir=$(echo "/projects/dsnlab/tag/archive/DICOMS/${subid}"*)
-niidir="/projects/dsnlab/tag/archive/cleani_nii"
+niidir="/projects/dsnlab/tag/archive/clean_nii"
 bidsdir="/projects/dsnlab/tag/bids_data"
 
 # Set study info
