@@ -121,8 +121,8 @@ if [ "${convertanat}" == "TRUE" ]; then
 		ls "$anatomicaloutput"/*"${anat}".nii.gz >> $errorlog
 		t1w1=$(ls "$anatomicaloutput"/*"${anat}".nii.gz | head -1)
 		t1w2=$(ls "$anatomicaloutput"/*"${anat}".nii.gz | tail -1)
-		cp ${cpflags} "${tw1}" "$bidsdir"/sub-"${subid}"/ses-"${sessid}"/anat/sub-"${subid}"_ses-"${sessid}"_run-01_T1w.nii.gz
-		cp ${cpflags} "${tw2}" "$bidsdir"/sub-"${subid}"/ses-"${sessid}"/anat/sub-"${subid}"_ses-"${sessid}"_run-02_T1w.nii.gz
+		cp ${cpflags} "${t1w1}" "$bidsdir"/sub-"${subid}"/ses-"${sessid}"/anat/sub-"${subid}"_ses-"${sessid}"_run-01_T1w.nii.gz
+		cp ${cpflags} "${t1w2}" "$bidsdir"/sub-"${subid}"/ses-"${sessid}"/anat/sub-"${subid}"_ses-"${sessid}"_run-02_T1w.nii.gz
 	fi
 fi
 
