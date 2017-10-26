@@ -1,5 +1,5 @@
-# org_scripts
-Scripts for keeping us organized and checking data
+# bids-conversion
+Convert DICOMS to BIDS. More information about BIDS specifications can be found here.
 
 ## BIDS conversion
 Convert DICOMS to [BIDS](http://bids.neuroimaging.io/). More information about BIDS specifications can be found [here](http://bids.neuroimaging.io/bids_spec1.0.2.pdf).
