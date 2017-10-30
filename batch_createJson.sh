@@ -21,5 +21,5 @@ JOB=TAG_scripts/org/bids-conversion/createJson.sh
 
 for SUBJ in ${SUBJLIST[@]}
 do
- sbatch --export subid=${SUBJ} --job-name createJson_"${SUBJ}" --mem-per-cpu=2G --cpus-per-task=1 -o "${STUDY}"/"${OUTPUTDIR}"/"${SUBJ}"_createJson_output.txt -e "${STUDY}"/"${OUTPUTDIR}"/"${SUBJ}"__createJson_error.txt "${STUDY}"/"${JOB}"
+ sbatch --export subid=${SUBJ} --job-name createJson_"${SUBJ}" --mem-per-cpu=2G --cpus-per-task=1 --partition=short --time 00:00:10 -o "${STUDY}"/"${OUTPUTDIR}"/"${SUBJ}"_createJson_output.txt -e "${STUDY}"/"${OUTPUTDIR}"/"${SUBJ}"_createJson_error.txt "${STUDY}"/"${JOB}"
 done

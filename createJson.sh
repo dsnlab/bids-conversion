@@ -122,7 +122,7 @@ if [ "${convertrest}" == "TRUE" ]; then
 	    	filename="sub-"$subid"_ses-"$sessid"_task-rest_run-0"$runnum"_bold.json"
 	    	echo -e "{\n\t\"TaskName\": \"rest\",\n\t\"RepetitionTime\": $RepetitionTime_x,\n\t\"EchoTime\": $EchoTime_x,\n\t\"FlipAngle\": $FlipAngle_x,\n\t\"MultibandAccelerationFactor\": $MultibandAccelerationFactor_x,\n\t\"PhaseEncodingDirection\": \"$PhaseEncodingDirection_x\",\n\t\"EffectiveEchoSpacing\": $EffectiveEchoSpacing_x\n}" >> "$filename" 
 	    	ls "$filename" >> $errorlog
-	    fi
+	    	fi
 	done
 
 fi
@@ -192,7 +192,7 @@ if [ "${converttask}" == "TRUE" ]; then
     				PhaseEncodingDirection_x="-k"
     			fi
 
-		if [ "$RepetitionTime" == "$RepetitionTime_x" ] && [ "$EchoTime" == "$EchoTime_x" ] && [ "$FlipAngle" == "$FlipAngle_x" ] && [ "$EffectiveEchoSpacing" == "$EffectiveEchoSpacing_x" ] && [ "$PhaseEncodingDirection" == "$PhaseEncodingDirection_x"]
+		if [ "$RepetitionTime" == "$RepetitionTime_x" ] && [ "$EchoTime" == "$EchoTime_x" ] && [ "$FlipAngle" == "$FlipAngle_x" ] && [ "$EffectiveEchoSpacing" == "$EffectiveEchoSpacing_x" ] && [ "$PhaseEncodingDirection" == "$PhaseEncodingDirection_x"];
 		then
 	    	echo "$subid OK"
 	    else 
