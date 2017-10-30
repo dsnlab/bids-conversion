@@ -36,4 +36,4 @@ convertrest="FALSE"
 converttask="TRUE"
 
 # Set error log file
-errorlog="/projects/dsnlab/tag/TAG_scripts/org/output/errorlog_Json.txt"
+errorlog="/projects/dsnlab/tag/TAG_scripts/org/bids-conversion/errorlog_Json.txt"

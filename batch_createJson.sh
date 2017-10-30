@@ -17,7 +17,7 @@ SUBJLIST=`cat subject_list_prac.txt`
 OUTPUTDIR=TAG_scripts/org/output
 
 # Set job script
-JOB=TAG_scripts/org/createJson.sh
+JOB=TAG_scripts/org/bids-conversion/createJson.sh
 
 for SUBJ in ${SUBJLIST[@]}
 do
