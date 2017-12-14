@@ -1,0 +1,22 @@
+TAG177
+wave1
+
+Checking anat
+OK
+
+Checking rest
+OK
+OK
+
+Checking task fMRI
+SVC_1
+OK
+SVC_2
+ERROR: no files; nothing to use
+DSD_1
+ERROR: no files; nothing to use
+DSD_2
+ERROR: no files; nothing to use
+
+Checking fieldmap
+not OK

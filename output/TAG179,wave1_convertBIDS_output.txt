@@ -1,0 +1,80 @@
+TAG179_wave1
+
+Setting dicom directory
+/projects/dsnlab/shared/tag/archive/DICOMS/TAG179_20170804
+
+Creating nii directory
+mkdir: created directory ‘TAG179’
+mkdir: created directory ‘TAG179/wave1’
+
+Converting anatomical mprage into nifti
+8.0M	005_mprage_p2_ND.nii
+22M	006_mprage_p2.nii
+
+Converting fieldmaps into niftis
+0	012_fieldmap_2mm_01.nii
+0	012_fieldmap_2mm_02.nii
+0	013_fieldmap_2mm.nii
+
+Converting DTI into 4D nifti
+
+Converting resting state into 4D niftis
+For Series: 1.3.12.2.1107.5.2.19.45348.201708041505345297034309.0.0.0
+Volume interval differs from RepetitionTime by > 0.05%
+TR: 0 retval: 0.780001
+For Series: 1.3.12.2.1107.5.2.19.45348.201708041505345297034309.0.0.0
+Volume interval differs from RepetitionTime by > 0.05%
+TR: 0 retval: 0.780001
+For Series: 1.3.12.2.1107.5.2.19.45348.201708041505345297034309.0.0.0
+Volume interval differs from RepetitionTime by > 0.05%
+TR: 0 retval: 0.780001
+For Series: 1.3.12.2.1107.5.2.19.45348.2017080415174726487822969.0.0.0
+Volume interval differs from RepetitionTime by > 0.05%
+TR: 0 retval: 0.780001
+For Series: 1.3.12.2.1107.5.2.19.45348.2017080415174726487822969.0.0.0
+Volume interval differs from RepetitionTime by > 0.05%
+TR: 0 retval: 0.780001
+For Series: 1.3.12.2.1107.5.2.19.45348.2017080415174726487822969.0.0.0
+Volume interval differs from RepetitionTime by > 0.05%
+TR: 0 retval: 0.780001
+219M	008_Resting_1.nii
+219M	010_Resting_2.nii
+
+Converting fMRI task data into 4D niftis
+268M	007_SVC_1_bold_mb3_g2_2mm_te25.nii
+268M	009_SVC_2_bold_mb3_g2_2mm_te25.nii
+335M	011_DSD_1_bold_mb3_g2_2mm_te25.nii
+332M	014_DSD_2_bold_mb3_g2_2mm_te25.nii
+
+Creating text file with additionl acquisition info
+
+Creating BIDS directory stucture...
+mkdir: created directory ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG179’
+mkdir: created directory ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG179/ses-wave1’
+mkdir: created directory ‘anat’
+mkdir: created directory ‘fmap’
+mkdir: created directory ‘dwi’
+mkdir: created directory ‘func’
+
+Copying structural
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG179/wave1/anat/006_mprage_p2.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG179/ses-wave1/anat/sub-TAG179_ses-wave1_T1w.nii.gz’
+
+Copying fieldmaps
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG179/wave1/fmap/013_fieldmap_2mm.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG179/ses-wave1/fmap/sub-TAG179_ses-wave1_phasediff.nii.gz’
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG179/wave1/fmap/012_fieldmap_2mm_01.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG179/ses-wave1/fmap/sub-TAG179_ses-wave1_magnitude1.nii.gz’
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG179/wave1/fmap/012_fieldmap_2mm_02.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG179/ses-wave1/fmap/sub-TAG179_ses-wave1_magnitude2.nii.gz’
+
+Copying DTI
+ERROR: no files; nothing to copy
+
+Copying resting state
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG179/wave1/resting/008_Resting_1.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG179/ses-wave1/func/sub-TAG179_ses-wave1_task-rest_run-01_bold.nii.gz’
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG179/wave1/resting/010_Resting_2.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG179/ses-wave1/func/sub-TAG179_ses-wave1_task-rest_run-02_bold.nii.gz’
+
+Copying task fMRI
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG179/wave1/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG179/ses-wave1/func/sub-TAG179_ses-wave1_task-SVC_run-01_bold.nii.gz’
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG179/wave1/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG179/ses-wave1/func/sub-TAG179_ses-wave1_task-SVC_run-02_bold.nii.gz’
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG179/wave1/task/011_DSD_1_bold_mb3_g2_2mm_te25.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG179/ses-wave1/func/sub-TAG179_ses-wave1_task-DSD_run-01_bold.nii.gz’
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG179/wave1/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG179/ses-wave1/func/sub-TAG179_ses-wave1_task-DSD_run-02_bold.nii.gz’
+
+COMPLETED

@@ -8,18 +8,24 @@
 # directories.
 #
 # Set your study
-STUDY=/projects/dsnlab/tag
+STUDY=/projects/dsnlab/shared/tag
 
 # Set subject list
-SUBJLIST=`cat subject_list.txt`
+SUBJLIST=`cat subject_list_prac.txt`
 
 # Set output directory
-OUTPUTDIR=TAG_scripts/org/output
+OUTPUTDIR=TAG_scripts/org/bids-conversion/output
 
 # Set job script
-JOB=TAG_scripts/org/convert_bids.sh
+JOB=TAG_scripts/org/bids-conversion/convert_bids.sh
 
 for SUBJ in ${SUBJLIST[@]}
+
 do
- sbatch --export subid=${SUBJ} --job-name dicomconvert_"${SUBJ}" --mem-per-cpu=2G --cpus-per-task=1 -o "${STUDY}"/"${OUTPUTDIR}"/"${SUBJ}"_dicomconvert_output.txt -e "${STUDY}"/"${OUTPUTDIR}"/"${SUBJ}"_dicomconvert_error.txt "${STUDY}"/"${JOB}"
+
+SUBID=`echo $SUBJ|awk '{print $1}' FS=","`
+SESSID=`echo $SUBJ|awk '{print $2}' FS=","`
+
+sbatch --export subid=${SUBID},sessid=${SESSID} --job-name convertBIDS_"${SUBJ}" --partition=short --time 00:60:00 --mem-per-cpu=2G --cpus-per-task=1 -o "${STUDY}"/"${OUTPUTDIR}"/"${SUBJ}"_convertBIDS_output.txt -e "${STUDY}"/"${OUTPUTDIR}"/"${SUBJ}"_convertBIDS_error.txt "${STUDY}"/"${JOB}"
+
 done

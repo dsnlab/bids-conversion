@@ -1,0 +1,29 @@
+TAG125_wave1
+
+Setting dicom directory
+/projects/dsnlab/shared/tag/archive/DICOMS/TAG125_20171202
+
+Creating nii directory
+
+Creating text file with additionl acquisition info
+
+Creating BIDS directory stucture...
+
+Copying structural
+
+Copying fieldmaps
+
+Copying DTI
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG125/wave1/dti/016_diff_mb2_g2_64dirs_2mm_rl.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG125/ses-wave1/dwi/sub-TAG125_ses-wave1_acq-rl_dwi.nii.gz’
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG125/wave1/dti/017_diff_mb2_g2_64dirs_2mm_lr.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG125/ses-wave1/dwi/sub-TAG125_ses-wave1_acq-lr_dwi.nii.gz’
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG125/wave1/dti/016_diff_mb2_g2_64dirs_2mm_rl_bvecs’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG125/ses-wave1/dwi/sub-TAG125_ses-wave1_acq-rl_dwi_bvecs’
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG125/wave1/dti/016_diff_mb2_g2_64dirs_2mm_rl_bvals’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG125/ses-wave1/dwi/sub-TAG125_ses-wave1_acq-rl_dwi_bvals’
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG125/wave1/dti/017_diff_mb2_g2_64dirs_2mm_lr_bvecs’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG125/ses-wave1/dwi/sub-TAG125_ses-wave1_acq-lr_dwi_bvecs’
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG125/wave1/dti/017_diff_mb2_g2_64dirs_2mm_lr_bvals’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG125/ses-wave1/dwi/sub-TAG125_ses-wave1_acq-lr_dwi_bvals’
+
+Copying resting state
+
+Copying task fMRI
+ERROR: wrong number of files; largest file copied
+
+COMPLETED

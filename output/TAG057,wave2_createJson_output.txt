@@ -1,0 +1,22 @@
+TAG057
+wave1
+
+Checking anat
+OK
+
+Checking rest
+OK
+OK
+
+Checking task fMRI
+SVC_1
+OK
+SVC_2
+OK
+DSD_1
+OK
+DSD_2
+OK
+
+Checking fieldmap
+OK

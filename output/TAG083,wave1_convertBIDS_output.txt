@@ -1,0 +1,73 @@
+TAG083_wave1
+
+Setting dicom directory
+/projects/dsnlab/shared/tag/archive/DICOMS/TAG083_20171126
+
+Creating nii directory
+mkdir: created directory ‘TAG083’
+mkdir: created directory ‘TAG083/wave1’
+
+Converting anatomical mprage into nifti
+10M	005_mprage_p2_ND.nii
+22M	006_mprage_p2.nii
+
+Converting fieldmaps into niftis
+
+Converting DTI into 4D nifti
+
+Converting resting state into 4D niftis
+For Series: 1.3.12.2.1107.5.2.19.45348.2017112614273643607923827.0.0.0
+Volume interval differs from RepetitionTime by > 0.05%
+TR: 0 retval: 0.780001
+For Series: 1.3.12.2.1107.5.2.19.45348.2017112614273643607923827.0.0.0
+Volume interval differs from RepetitionTime by > 0.05%
+TR: 0 retval: 0.780001
+For Series: 1.3.12.2.1107.5.2.19.45348.2017112614273643607923827.0.0.0
+Volume interval differs from RepetitionTime by > 0.05%
+TR: 0 retval: 0.780001
+For Series: 1.3.12.2.1107.5.2.19.45348.2017112614452412986937367.0.0.0
+Volume interval differs from RepetitionTime by > 0.05%
+TR: 0 retval: 0.780001
+For Series: 1.3.12.2.1107.5.2.19.45348.2017112614452412986937367.0.0.0
+Volume interval differs from RepetitionTime by > 0.05%
+TR: 0 retval: 0.780001
+For Series: 1.3.12.2.1107.5.2.19.45348.2017112614452412986937367.0.0.0
+Volume interval differs from RepetitionTime by > 0.05%
+TR: 0 retval: 0.780001
+319M	012_Resting_1.nii
+319M	018_Resting_2.nii
+
+Converting fMRI task data into 4D niftis
+268M	007_SVC_1_bold_mb3_g2_2mm_te25.nii
+268M	017_SVC_2_bold_mb3_g2_2mm_te25.nii
+
+Creating text file with additionl acquisition info
+
+Creating BIDS directory stucture...
+mkdir: created directory ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG083’
+mkdir: created directory ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG083/ses-wave1’
+mkdir: created directory ‘anat’
+mkdir: created directory ‘fmap’
+mkdir: created directory ‘dwi’
+mkdir: created directory ‘func’
+
+Copying structural
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG083/wave1/anat/006_mprage_p2.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG083/ses-wave1/anat/sub-TAG083_ses-wave1_T1w.nii.gz’
+
+Copying fieldmaps
+ERROR: no files; nothing to copy
+
+Copying DTI
+ERROR: no files; nothing to copy
+
+Copying resting state
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG083/wave1/resting/012_Resting_1.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG083/ses-wave1/func/sub-TAG083_ses-wave1_task-rest_run-01_bold.nii.gz’
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG083/wave1/resting/018_Resting_2.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG083/ses-wave1/func/sub-TAG083_ses-wave1_task-rest_run-02_bold.nii.gz’
+
+Copying task fMRI
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG083/wave1/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG083/ses-wave1/func/sub-TAG083_ses-wave1_task-SVC_run-01_bold.nii.gz’
+‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG083/wave1/task/017_SVC_2_bold_mb3_g2_2mm_te25.nii.gz’ -> ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG083/ses-wave1/func/sub-TAG083_ses-wave1_task-SVC_run-02_bold.nii.gz’
+ERROR: no files; nothing to copy
+ERROR: no files; nothing to copy
+
+COMPLETED

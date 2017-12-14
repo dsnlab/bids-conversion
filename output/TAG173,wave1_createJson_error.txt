@@ -1,0 +1,3 @@
+rm: cannot remove ‘sub-TAG173_ses-wave1_T1w.json’: No such file or directory
+ls: cannot access *DSD_1*info.txt: No such file or directory
+ls: cannot access *DSD_1*info.txt: No such file or directory

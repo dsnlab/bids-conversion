@@ -1,0 +1,11 @@
+ls: cannot access anat: No such file or directory
+ls: cannot access fmap: No such file or directory
+ls: cannot access dti: No such file or directory
+ls: cannot access resting: No such file or directory
+ls: cannot access task: No such file or directory
+cp: cannot stat ‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG018/wave2/dti/*diff*rl.nii.gz’: No such file or directory
+cp: target ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG018/ses-wave2/dwi/sub-TAG018_ses-wave2_acq-lr_dwi.nii.gz’ is not a directory
+cp: cannot stat ‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG018/wave2/dti/*diff*rl_bvecs’: No such file or directory
+cp: cannot stat ‘/projects/dsnlab/shared/tag/archive/clean_nii/TAG018/wave2/dti/*diff*rl_bvals’: No such file or directory
+cp: target ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG018/ses-wave2/dwi/sub-TAG018_ses-wave2_acq-lr_dwi_bvecs’ is not a directory
+cp: target ‘/projects/dsnlab/shared/tag/bids_data/sub-TAG018/ses-wave2/dwi/sub-TAG018_ses-wave2_acq-lr_dwi_bvals’ is not a directory

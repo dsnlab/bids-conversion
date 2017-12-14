@@ -1,0 +1,8 @@
+ls: cannot access *Resting_2*info.txt: No such file or directory
+ls: cannot access *DSD_1*info.txt: No such file or directory
+ls: cannot access *DSD_1*info.txt: No such file or directory
+ls: cannot access *DSD_2*info.txt: No such file or directory
+ls: cannot access *DSD_2*info.txt: No such file or directory
+find: ‘*info.txt’: No such file or directory
+(standard_in) 1: syntax error
+(standard_in) 1: syntax error

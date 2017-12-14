@@ -2,8 +2,10 @@
 
 #Please run this from the directory where the subject folders are located!
 
-#Path to afni 3dinfo binary (just 3dinfo if it's in your path already)
-afniinfo=/usr/lib/afni/bin/3dinfo
+#!/bin/bash
+
+#Load afni
+module load prl afni
 
 #manual sublist like:
 #sub-TAG000
@@ -13,7 +15,7 @@ afniinfo=/usr/lib/afni/bin/3dinfo
 #sublist=`cat ~/sublist.txt`
 sublist=`ls -1d sub*`
 
-outputfile=test_out.csv
+outputfile=3dinfo_out.csv
 
 echo "sid,file,orient" > $outputfile
 
@@ -26,7 +28,7 @@ do
         echo ""
         echo "Checking file $file:"
         echo ""
-        orient=`$afniinfo $file | grep 'orient' | sed -e 's/.*orient \(.*\)\]/\1/'`
+        orient=`3dinfo $file | grep 'orient' | sed -e 's/.*orient \(.*\)\]/\1/'`
         echo "$sub,$file,$orient" >> $outputfile
     done
 done

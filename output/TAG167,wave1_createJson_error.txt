@@ -1,0 +1,2 @@
+rm: cannot remove ‘sub-TAG167_ses-wave1_T1w.json’: No such file or directory
+ls: cannot access *Resting_2*info.txt: No such file or directory

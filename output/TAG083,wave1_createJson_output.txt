@@ -1,0 +1,22 @@
+TAG083
+wave1
+
+Checking anat
+not OK
+
+Checking rest
+not OK
+not OK
+
+Checking task fMRI
+SVC_1
+not OK
+SVC_2
+not OK
+DSD_1
+ERROR: no files; nothing to use
+DSD_2
+ERROR: no files; nothing to use
+
+Checking fieldmap
+not OK

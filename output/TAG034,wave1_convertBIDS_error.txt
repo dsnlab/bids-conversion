@@ -1,0 +1,4 @@
+ls: cannot access anat: No such file or directory
+mkdir: cannot create directory ‘fmap’: File exists
+mkdir: cannot create directory ‘dti’: File exists
+ls: cannot access resting: No such file or directory

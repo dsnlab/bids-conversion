@@ -1,0 +1,23 @@
+TAG000
+wave1
+
+Checking anat
+OK
+
+Checking rest
+OK
+OK
+
+Checking task fMRI
+SVC_1
+OK
+SVC_2
+ERROR: wrong number of files; largest file used
+OK
+DSD_1
+OK
+DSD_2
+OK
+
+Checking fieldmap
+OK

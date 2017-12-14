@@ -1,0 +1,22 @@
+TAG113
+wave1
+
+Checking anat
+ERROR: wrong number of files
+
+Checking rest
+OK
+OK
+
+Checking task fMRI
+SVC_1
+OK
+SVC_2
+OK
+DSD_1
+OK
+DSD_2
+ERROR: no files; nothing to use
+
+Checking fieldmap
+OK

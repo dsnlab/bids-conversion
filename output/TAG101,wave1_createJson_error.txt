@@ -1,0 +1,1 @@
+rm: cannot remove ‘sub-TAG101_ses-wave1_T1w.json’: No such file or directory

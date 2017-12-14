@@ -1,0 +1,638 @@
+TAG006: Wrong number of Resting_2
+TAG006: MISSING SVC_2
+TAG006: MISSING DSD_1
+TAG006: MISSING DSD_2
+sub-TAG006_ses-wave1_phasediff.json
+sub-TAG016_ses-wave1_task-rest_run-01_bold.json
+sub-TAG013_ses-wave1_task-rest_run-01_bold.json
+sub-TAG024_ses-wave1_T1w.json
+sub-TAG016_ses-wave1_task-rest_run-02_bold.json
+sub-TAG013_ses-wave1_task-rest_run-02_bold.json
+sub-TAG013_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG016_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG034_ses-wave1_task-rest_run-01_bold.json
+TAG058: Wrong number of mprage_p2
+sub-TAG024_ses-wave1_task-rest_run-01_bold.json
+sub-TAG013_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG016_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG081_ses-wave1_T1w.json
+sub-TAG080_ses-wave1_T1w.json
+TAG028: Wrong number of Resting_2
+sub-TAG013_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG016_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG034_ses-wave1_task-rest_run-02_bold.json
+sub-TAG024_ses-wave1_task-rest_run-02_bold.json
+sub-TAG087_ses-wave1_T1w.json
+sub-TAG081_ses-wave1_task-rest_run-01_bold.json
+sub-TAG014_ses-wave1_T1w.json
+sub-TAG012_ses-wave1_T1w.json
+sub-TAG013_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG089_ses-wave1_task-rest_run-01_bold.json
+TAG098: Wrong number of mprage_p2
+sub-TAG016_ses-wave1_task-DSD_run-02_bold.json
+TAG116: Wrong number of mprage_p2
+TAG113: Wrong number of mprage_p2
+sub-TAG029_ses-wave1_T1w.json
+sub-TAG122_ses-wave1_T1w.json
+TAG078: Wrong number of mprage_p2
+sub-TAG120_ses-wave1_T1w.json
+sub-TAG124_ses-wave1_T1w.json
+sub-TAG087_ses-wave1_task-rest_run-01_bold.json
+sub-TAG125_ses-wave1_T1w.json
+sub-TAG024_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG116_ses-wave1_task-rest_run-01_bold.json
+sub-TAG034_ses-wave1_task-SVC_run-01_bold.json
+TAG099: Wrong number of mprage_p2
+sub-TAG081_ses-wave1_task-rest_run-02_bold.json
+TAG127: Wrong number of mprage_p2
+TAG104: Wrong number of mprage_p2
+sub-TAG122_ses-wave1_task-rest_run-01_bold.json
+sub-TAG124_ses-wave1_task-rest_run-01_bold.json
+sub-TAG125_ses-wave1_task-rest_run-01_bold.json
+sub-TAG132_ses-wave1_T1w.json
+sub-TAG016_ses-wave1_task-rest_run-01_bold.json
+sub-TAG116_ses-wave1_task-rest_run-02_bold.json
+TAG124: Wrong number of Resting_2
+sub-TAG089_ses-wave1_task-rest_run-01_bold.json
+TAG127: Wrong number of Resting_1
+sub-TAG122_ses-wave1_task-rest_run-02_bold.json
+sub-TAG125_ses-wave1_task-rest_run-02_bold.json
+sub-TAG116_ses-wave1_task-SVC_run-01_bold.json
+TAG127: Wrong number of Resting_2
+sub-TAG124_ses-wave1_task-SVC_run-01_bold.json
+TAG113: MISSING DSD_2
+sub-TAG074_ses-wave1_T1w.json
+sub-TAG122_ses-wave1_task-SVC_run-01_bold.json
+TAG130: Wrong number of Resting_2
+sub-TAG116_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG125_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG048_ses-wave1_T1w.json
+TAG127: MISSING SVC_1
+sub-TAG016_ses-wave1_task-rest_run-02_bold.json
+sub-TAG095_ses-wave1_T1w.json
+sub-TAG124_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG122_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG116_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG125_ses-wave1_task-SVC_run-02_bold.json
+TAG009: MISSING SVC_1
+sub-TAG072_ses-wave1_T1w.json
+TAG098: Wrong number of Resting_1
+sub-TAG024_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG124_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG122_ses-wave1_task-DSD_run-01_bold.json
+TAG127: MISSING SVC_2
+sub-TAG116_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG125_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG077_ses-wave1_T1w.json
+sub-TAG034_ses-wave1_task-rest_run-01_bold.json
+sub-TAG124_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG122_ses-wave1_task-DSD_run-02_bold.json
+TAG127: MISSING DSD_1
+sub-TAG125_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG034_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG068_ses-wave1_T1w.json
+TAG028: MISSING DSD_1
+sub-TAG131_ses-wave1_T1w.json
+TAG009: MISSING SVC_2
+sub-TAG016_ses-wave1_task-SVC_run-01_bold.json
+TAG127: MISSING DSD_2
+sub-TAG091_ses-wave1_T1w.json
+sub-TAG101_ses-wave1_T1w.json
+sub-TAG127_ses-wave1_phasediff.json
+sub-TAG130_ses-wave1_phasediff.json
+sub-TAG024_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG089_ses-wave1_task-rest_run-02_bold.json
+TAG009: MISSING DSD_1
+sub-TAG016_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG083_ses-wave1_T1w.json
+sub-TAG103_ses-wave1_T1w.json
+sub-TAG106_ses-wave1_T1w.json
+sub-TAG034_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG034_ses-wave1_task-rest_run-02_bold.json
+sub-TAG110_ses-wave1_T1w.json
+sub-TAG087_ses-wave1_task-rest_run-02_bold.json
+TAG009: MISSING DSD_2
+sub-TAG016_ses-wave1_task-DSD_run-01_bold.json
+TAG024: MISSING DSD_2
+TAG028: MISSING DSD_2
+sub-TAG107_ses-wave1_T1w.json
+sub-TAG081_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG112_ses-wave1_T1w.json
+sub-TAG016_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG078_ses-wave1_task-rest_run-01_bold.json
+sub-TAG028_ses-wave1_phasediff.json
+sub-TAG034_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG074_ses-wave1_task-rest_run-01_bold.json
+sub-TAG056_ses-wave1_task-rest_run-01_bold.json
+sub-TAG034_ses-wave1_task-SVC_run-01_bold.json
+TAG098: Wrong number of Resting_2
+sub-TAG089_ses-wave1_task-rest_run-02_bold.json
+sub-TAG072_ses-wave1_task-rest_run-01_bold.json
+sub-TAG152_ses-wave1_T1w.json
+sub-TAG145_ses-wave1_T1w.json
+sub-TAG155_ses-wave1_T1w.json
+sub-TAG077_ses-wave1_task-rest_run-01_bold.json
+sub-TAG095_ses-wave1_task-rest_run-01_bold.json
+sub-TAG167_ses-wave1_T1w.json
+sub-TAG034_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG155_ses-wave1_task-rest_run-01_bold.json
+sub-TAG166_ses-wave1_T1w.json
+sub-TAG173_ses-wave1_T1w.json
+sub-TAG169_ses-wave1_T1w.json
+sub-TAG166_ses-wave1_task-rest_run-01_bold.json
+TAG167: Wrong number of Resting_2
+sub-TAG089_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG155_ses-wave1_task-rest_run-02_bold.json
+sub-TAG166_ses-wave1_task-rest_run-02_bold.json
+sub-TAG173_ses-wave1_task-rest_run-01_bold.json
+sub-TAG034_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG166_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG173_ses-wave1_task-rest_run-02_bold.json
+sub-TAG155_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG166_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG173_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG034_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG166_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG083_ses-wave1_task-rest_run-01_bold.json
+sub-TAG106_ses-wave1_task-rest_run-01_bold.json
+sub-TAG155_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG173_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG087_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG166_ses-wave1_task-DSD_run-02_bold.json
+TAG173: MISSING DSD_1
+sub-TAG179_ses-wave1_T1w.json
+sub-TAG155_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG110_ses-wave1_task-rest_run-01_bold.json
+sub-TAG173_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG074_ses-wave1_task-rest_run-02_bold.json
+TAG098: MISSING SVC_1
+sub-TAG081_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG179_ses-wave1_task-rest_run-01_bold.json
+sub-TAG155_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG056_ses-wave1_task-rest_run-02_bold.json
+sub-TAG179_ses-wave1_task-rest_run-02_bold.json
+sub-TAG072_ses-wave1_task-rest_run-02_bold.json
+sub-TAG179_ses-wave1_task-SVC_run-01_bold.json
+TAG177: MISSING SVC_2
+sub-TAG078_ses-wave1_task-rest_run-02_bold.json
+sub-TAG190_ses-wave1_T1w.json
+sub-TAG179_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG186_ses-wave1_T1w.json
+TAG177: MISSING DSD_1
+sub-TAG089_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG192_ses-wave1_T1w.json
+sub-TAG077_ses-wave1_task-rest_run-02_bold.json
+TAG177: MISSING DSD_2
+sub-TAG194_ses-wave1_T1w.json
+sub-TAG200_ses-wave1_T1w.json
+sub-TAG179_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG176_ses-wave1_T1w.json
+sub-TAG190_ses-wave1_task-rest_run-01_bold.json
+sub-TAG175_ses-wave1_T1w.json
+sub-TAG202_ses-wave1_T1w.json
+sub-TAG186_ses-wave1_task-rest_run-01_bold.json
+sub-TAG095_ses-wave1_task-rest_run-02_bold.json
+sub-TAG177_ses-wave1_phasediff.json
+sub-TAG179_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG089_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG176_ses-wave1_task-rest_run-01_bold.json
+sub-TAG202_ses-wave1_task-rest_run-01_bold.json
+sub-TAG200_ses-wave1_task-rest_run-01_bold.json
+sub-TAG190_ses-wave1_task-rest_run-02_bold.json
+sub-TAG175_ses-wave1_task-rest_run-01_bold.json
+sub-TAG186_ses-wave1_task-rest_run-02_bold.json
+sub-TAG176_ses-wave1_task-rest_run-02_bold.json
+sub-TAG202_ses-wave1_task-rest_run-02_bold.json
+sub-TAG175_ses-wave1_task-rest_run-02_bold.json
+sub-TAG200_ses-wave1_task-rest_run-02_bold.json
+sub-TAG190_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG175_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG200_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG206_ses-wave1_T1w.json
+sub-TAG188_ses-wave1_T1w.json
+sub-TAG180_ses-wave1_T1w.json
+sub-TAG175_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG200_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG190_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG175_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG220_ses-wave1_T1w.json
+sub-TAG223_ses-wave1_T1w.json
+sub-TAG221_ses-wave1_T1w.json
+sub-TAG200_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG224_ses-wave1_T1w.json
+sub-TAG106_ses-wave1_task-rest_run-02_bold.json
+sub-TAG175_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG206_ses-wave1_task-rest_run-01_bold.json
+sub-TAG188_ses-wave1_task-rest_run-01_bold.json
+sub-TAG180_ses-wave1_task-rest_run-01_bold.json
+sub-TAG087_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG074_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG200_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG083_ses-wave1_task-rest_run-02_bold.json
+sub-TAG190_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG110_ses-wave1_task-rest_run-02_bold.json
+TAG086: Wrong number of Resting_2
+sub-TAG072_ses-wave1_task-SVC_run-01_bold.json
+TAG098: MISSING SVC_2
+sub-TAG223_ses-wave1_task-rest_run-01_bold.json
+sub-TAG221_ses-wave1_task-rest_run-01_bold.json
+sub-TAG220_ses-wave1_task-rest_run-01_bold.json
+sub-TAG224_ses-wave1_task-rest_run-01_bold.json
+sub-TAG180_ses-wave1_task-rest_run-02_bold.json
+sub-TAG188_ses-wave1_task-rest_run-02_bold.json
+sub-TAG206_ses-wave1_task-rest_run-02_bold.json
+sub-TAG081_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG086_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG190_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG086_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG207_ses-wave1_T1w.json
+sub-TAG180_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG188_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG086_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG089_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG180_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG188_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG208_ses-wave1_T1w.json
+sub-TAG223_ses-wave1_task-rest_run-02_bold.json
+sub-TAG180_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG211_ses-wave1_T1w.json
+sub-TAG077_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG209_ses-wave1_T1w.json
+sub-TAG221_ses-wave1_task-rest_run-02_bold.json
+sub-TAG224_ses-wave1_task-rest_run-02_bold.json
+sub-TAG188_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG220_ses-wave1_task-rest_run-02_bold.json
+sub-TAG206_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG210_ses-wave1_T1w.json
+TAG188: MISSING DSD_2
+sub-TAG180_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG089_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG207_ses-wave1_task-rest_run-01_bold.json
+sub-TAG208_ses-wave1_task-rest_run-01_bold.json
+sub-TAG221_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG206_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG224_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG220_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG074_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG106_ses-wave1_task-SVC_run-01_bold.json
+TAG098: MISSING DSD_1
+sub-TAG072_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG207_ses-wave1_task-rest_run-02_bold.json
+sub-TAG087_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG110_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG083_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG208_ses-wave1_task-rest_run-02_bold.json
+sub-TAG224_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG206_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG221_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG220_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG077_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG081_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG089_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG221_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG206_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG089_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG224_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG220_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG074_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG072_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG224_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG221_ses-wave1_task-DSD_run-02_bold.json
+TAG098: MISSING DSD_2
+sub-TAG106_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG087_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG220_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG083_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG110_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG077_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG074_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG072_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG077_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG089_ses-wave1_task-DSD_run-02_bold.json
+TAG083: MISSING DSD_1
+sub-TAG098_ses-wave1_phasediff.json
+sub-TAG106_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG110_ses-wave1_task-DSD_run-01_bold.json
+TAG083: MISSING DSD_2
+TAG110: MISSING DSD_2
+sub-TAG106_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG083_ses-wave1_phasediff.json
+TAG006: Wrong number of Resting_2
+TAG006: MISSING SVC_2
+TAG006: MISSING DSD_1
+TAG006: MISSING DSD_2
+sub-TAG006_ses-wave1_phasediff.json
+sub-TAG014_ses-wave1_T1w.json
+sub-TAG012_ses-wave1_T1w.json
+sub-TAG016_ses-wave1_task-rest_run-01_bold.json
+sub-TAG016_ses-wave1_task-rest_run-01_bold.json
+sub-TAG016_ses-wave1_task-rest_run-02_bold.json
+sub-TAG016_ses-wave1_task-rest_run-02_bold.json
+sub-TAG016_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG016_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG016_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG048_ses-wave1_T1w.json
+sub-TAG013_ses-wave1_task-rest_run-01_bold.json
+sub-TAG016_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG016_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG034_ses-wave1_task-rest_run-01_bold.json
+sub-TAG188_ses-wave1_T1w.json
+sub-TAG167_ses-wave1_T1w.json
+sub-TAG190_ses-wave1_T1w.json
+sub-TAG192_ses-wave1_T1w.json
+TAG113: Wrong number of mprage_p2
+sub-TAG087_ses-wave1_T1w.json
+sub-TAG188_ses-wave1_task-rest_run-01_bold.json
+TAG009: MISSING SVC_1
+sub-TAG013_ses-wave1_task-rest_run-02_bold.json
+TAG167: Wrong number of Resting_2
+sub-TAG190_ses-wave1_task-rest_run-01_bold.json
+sub-TAG016_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG024_ses-wave1_T1w.json
+sub-TAG016_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG034_ses-wave1_task-rest_run-02_bold.json
+sub-TAG091_ses-wave1_T1w.json
+sub-TAG188_ses-wave1_task-rest_run-02_bold.json
+sub-TAG169_ses-wave1_T1w.json
+sub-TAG072_ses-wave1_T1w.json
+sub-TAG190_ses-wave1_task-rest_run-02_bold.json
+TAG116: Wrong number of mprage_p2
+sub-TAG087_ses-wave1_task-rest_run-01_bold.json
+sub-TAG089_ses-wave1_task-rest_run-01_bold.json
+sub-TAG188_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG190_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG029_ses-wave1_T1w.json
+sub-TAG122_ses-wave1_T1w.json
+TAG058: Wrong number of mprage_p2
+sub-TAG188_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG013_ses-wave1_task-SVC_run-01_bold.json
+TAG009: MISSING SVC_2
+sub-TAG190_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG166_ses-wave1_T1w.json
+sub-TAG125_ses-wave1_T1w.json
+sub-TAG188_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG190_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG016_ses-wave1_task-DSD_run-02_bold.json
+TAG188: MISSING DSD_2
+sub-TAG024_ses-wave1_task-rest_run-01_bold.json
+sub-TAG166_ses-wave1_task-rest_run-01_bold.json
+sub-TAG190_ses-wave1_task-DSD_run-02_bold.json
+TAG099: Wrong number of mprage_p2
+sub-TAG080_ses-wave1_T1w.json
+TAG078: Wrong number of mprage_p2
+sub-TAG152_ses-wave1_T1w.json
+sub-TAG081_ses-wave1_T1w.json
+TAG104: Wrong number of mprage_p2
+TAG009: MISSING DSD_1
+sub-TAG101_ses-wave1_T1w.json
+sub-TAG013_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG034_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG173_ses-wave1_T1w.json
+sub-TAG166_ses-wave1_task-rest_run-02_bold.json
+sub-TAG180_ses-wave1_T1w.json
+sub-TAG166_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG103_ses-wave1_T1w.json
+sub-TAG013_ses-wave1_task-DSD_run-01_bold.json
+TAG009: MISSING DSD_2
+sub-TAG122_ses-wave1_task-rest_run-01_bold.json
+sub-TAG077_ses-wave1_T1w.json
+sub-TAG166_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG024_ses-wave1_task-rest_run-02_bold.json
+sub-TAG034_ses-wave1_task-rest_run-01_bold.json
+sub-TAG166_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG013_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG166_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG200_ses-wave1_T1w.json
+sub-TAG083_ses-wave1_T1w.json
+sub-TAG110_ses-wave1_T1w.json
+sub-TAG125_ses-wave1_task-rest_run-01_bold.json
+sub-TAG131_ses-wave1_T1w.json
+sub-TAG072_ses-wave1_task-rest_run-01_bold.json
+sub-TAG074_ses-wave1_T1w.json
+TAG028: Wrong number of Resting_2
+sub-TAG024_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG034_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG068_ses-wave1_T1w.json
+sub-TAG089_ses-wave1_task-rest_run-02_bold.json
+TAG098: Wrong number of mprage_p2
+sub-TAG087_ses-wave1_task-rest_run-02_bold.json
+sub-TAG202_ses-wave1_T1w.json
+sub-TAG200_ses-wave1_task-rest_run-01_bold.json
+sub-TAG206_ses-wave1_T1w.json
+sub-TAG034_ses-wave1_task-rest_run-02_bold.json
+sub-TAG207_ses-wave1_T1w.json
+sub-TAG208_ses-wave1_T1w.json
+sub-TAG120_ses-wave1_T1w.json
+sub-TAG202_ses-wave1_task-rest_run-01_bold.json
+sub-TAG116_ses-wave1_task-rest_run-01_bold.json
+sub-TAG194_ses-wave1_T1w.json
+sub-TAG107_ses-wave1_T1w.json
+sub-TAG206_ses-wave1_task-rest_run-01_bold.json
+sub-TAG024_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG095_ses-wave1_T1w.json
+sub-TAG207_ses-wave1_task-rest_run-01_bold.json
+sub-TAG208_ses-wave1_task-rest_run-01_bold.json
+sub-TAG106_ses-wave1_T1w.json
+sub-TAG173_ses-wave1_task-rest_run-01_bold.json
+sub-TAG202_ses-wave1_task-rest_run-02_bold.json
+sub-TAG180_ses-wave1_task-rest_run-01_bold.json
+sub-TAG081_ses-wave1_task-rest_run-01_bold.json
+sub-TAG034_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG206_ses-wave1_task-rest_run-02_bold.json
+TAG127: Wrong number of mprage_p2
+sub-TAG132_ses-wave1_T1w.json
+sub-TAG200_ses-wave1_task-rest_run-02_bold.json
+sub-TAG208_ses-wave1_task-rest_run-02_bold.json
+sub-TAG207_ses-wave1_task-rest_run-02_bold.json
+sub-TAG145_ses-wave1_T1w.json
+sub-TAG122_ses-wave1_task-rest_run-02_bold.json
+sub-TAG112_ses-wave1_T1w.json
+sub-TAG024_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG206_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG034_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG210_ses-wave1_T1w.json
+sub-TAG078_ses-wave1_task-rest_run-01_bold.json
+TAG024: MISSING DSD_2
+sub-TAG206_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG200_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG211_ses-wave1_T1w.json
+sub-TAG220_ses-wave1_T1w.json
+sub-TAG077_ses-wave1_task-rest_run-01_bold.json
+sub-TAG223_ses-wave1_T1w.json
+sub-TAG175_ses-wave1_T1w.json
+sub-TAG206_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG224_ses-wave1_T1w.json
+sub-TAG056_ses-wave1_task-rest_run-01_bold.json
+sub-TAG155_ses-wave1_T1w.json
+sub-TAG179_ses-wave1_T1w.json
+sub-TAG206_ses-wave1_task-DSD_run-02_bold.json
+TAG086: Wrong number of Resting_2
+sub-TAG186_ses-wave1_T1w.json
+sub-TAG200_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG124_ses-wave1_T1w.json
+sub-TAG220_ses-wave1_task-rest_run-01_bold.json
+sub-TAG224_ses-wave1_task-rest_run-01_bold.json
+sub-TAG223_ses-wave1_task-rest_run-01_bold.json
+sub-TAG034_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG176_ses-wave1_T1w.json
+sub-TAG074_ses-wave1_task-rest_run-01_bold.json
+sub-TAG200_ses-wave1_task-DSD_run-01_bold.json
+TAG098: Wrong number of Resting_1
+sub-TAG089_ses-wave1_task-rest_run-01_bold.json
+sub-TAG224_ses-wave1_task-rest_run-02_bold.json
+sub-TAG072_ses-wave1_task-rest_run-02_bold.json
+sub-TAG220_ses-wave1_task-rest_run-02_bold.json
+sub-TAG086_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG034_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG125_ses-wave1_task-rest_run-02_bold.json
+sub-TAG223_ses-wave1_task-rest_run-02_bold.json
+sub-TAG083_ses-wave1_task-rest_run-01_bold.json
+sub-TAG200_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG086_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG209_ses-wave1_T1w.json
+sub-TAG224_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG220_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG086_ses-wave1_task-DSD_run-02_bold.json
+TAG028: MISSING DSD_1
+sub-TAG221_ses-wave1_T1w.json
+sub-TAG224_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG110_ses-wave1_task-rest_run-01_bold.json
+sub-TAG089_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG034_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG087_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG224_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG220_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG224_ses-wave1_task-DSD_run-02_bold.json
+TAG028: MISSING DSD_2
+sub-TAG221_ses-wave1_task-rest_run-01_bold.json
+sub-TAG034_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG220_ses-wave1_task-DSD_run-01_bold.json
+TAG127: Wrong number of Resting_1
+sub-TAG028_ses-wave1_phasediff.json
+sub-TAG081_ses-wave1_task-rest_run-02_bold.json
+sub-TAG116_ses-wave1_task-rest_run-02_bold.json
+sub-TAG220_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG221_ses-wave1_task-rest_run-02_bold.json
+sub-TAG221_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG095_ses-wave1_task-rest_run-01_bold.json
+sub-TAG106_ses-wave1_task-rest_run-01_bold.json
+sub-TAG078_ses-wave1_task-rest_run-02_bold.json
+sub-TAG173_ses-wave1_task-rest_run-02_bold.json
+sub-TAG122_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG221_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG056_ses-wave1_task-rest_run-02_bold.json
+sub-TAG077_ses-wave1_task-rest_run-02_bold.json
+sub-TAG221_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG180_ses-wave1_task-rest_run-02_bold.json
+sub-TAG221_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG175_ses-wave1_task-rest_run-01_bold.json
+sub-TAG155_ses-wave1_task-rest_run-01_bold.json
+TAG098: Wrong number of Resting_2
+sub-TAG074_ses-wave1_task-rest_run-02_bold.json
+TAG130: Wrong number of Resting_2
+sub-TAG186_ses-wave1_task-rest_run-01_bold.json
+sub-TAG072_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG124_ses-wave1_task-rest_run-01_bold.json
+sub-TAG179_ses-wave1_task-rest_run-01_bold.json
+sub-TAG125_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG176_ses-wave1_task-rest_run-01_bold.json
+sub-TAG089_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG083_ses-wave1_task-rest_run-02_bold.json
+sub-TAG089_ses-wave1_task-rest_run-02_bold.json
+sub-TAG110_ses-wave1_task-rest_run-02_bold.json
+sub-TAG087_ses-wave1_task-SVC_run-02_bold.json
+TAG127: Wrong number of Resting_2
+sub-TAG081_ses-wave1_task-SVC_run-01_bold.json
+TAG124: Wrong number of Resting_2
+sub-TAG077_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG116_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG095_ses-wave1_task-rest_run-02_bold.json
+sub-TAG106_ses-wave1_task-rest_run-02_bold.json
+sub-TAG122_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG173_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG180_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG074_ses-wave1_task-SVC_run-01_bold.json
+TAG098: MISSING SVC_1
+sub-TAG072_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG175_ses-wave1_task-rest_run-02_bold.json
+sub-TAG155_ses-wave1_task-rest_run-02_bold.json
+sub-TAG186_ses-wave1_task-rest_run-02_bold.json
+sub-TAG125_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG083_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG089_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG176_ses-wave1_task-rest_run-02_bold.json
+sub-TAG179_ses-wave1_task-rest_run-02_bold.json
+sub-TAG081_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG087_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG110_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG077_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG089_ses-wave1_task-SVC_run-01_bold.json
+TAG127: MISSING SVC_1
+sub-TAG116_ses-wave1_task-SVC_run-02_bold.json
+TAG113: MISSING DSD_2
+sub-TAG074_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG122_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG173_ses-wave1_task-SVC_run-02_bold.json
+TAG098: MISSING SVC_2
+sub-TAG106_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG072_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG124_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG180_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG155_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG175_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG077_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG125_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG179_ses-wave1_task-SVC_run-01_bold.json
+sub-TAG081_ses-wave1_task-DSD_run-01_bold.json
+TAG173: MISSING DSD_1
+sub-TAG089_ses-wave1_task-DSD_run-02_bold.json
+TAG127: MISSING SVC_2
+TAG177: MISSING SVC_2
+sub-TAG083_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG087_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG110_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG074_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG089_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG122_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG072_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG124_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG180_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG116_ses-wave1_task-DSD_run-01_bold.json
+TAG083: MISSING DSD_1
+TAG098: MISSING DSD_1
+sub-TAG179_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG077_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG106_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG155_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG081_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG175_ses-wave1_task-SVC_run-02_bold.json
+sub-TAG125_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG074_ses-wave1_task-DSD_run-02_bold.json
+TAG177: MISSING DSD_1
+TAG127: MISSING DSD_1
+sub-TAG110_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG089_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG173_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG124_ses-wave1_task-DSD_run-01_bold.json
+TAG098: MISSING DSD_2
+TAG083: MISSING DSD_2
+sub-TAG180_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG155_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG116_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG175_ses-wave1_task-DSD_run-01_bold.json
+sub-TAG179_ses-wave1_task-DSD_run-01_bold.json
+TAG110: MISSING DSD_2
+TAG177: MISSING DSD_2
+sub-TAG106_ses-wave1_task-DSD_run-01_bold.json
+TAG127: MISSING DSD_2
+sub-TAG130_ses-wave1_phasediff.json
+sub-TAG124_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG083_ses-wave1_phasediff.json
+sub-TAG098_ses-wave1_phasediff.json
+sub-TAG155_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG089_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG177_ses-wave1_phasediff.json
+sub-TAG175_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG179_ses-wave1_task-DSD_run-02_bold.json
+sub-TAG127_ses-wave1_phasediff.json
+sub-TAG106_ses-wave1_task-DSD_run-02_bold.json
