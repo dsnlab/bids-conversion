@@ -10,8 +10,6 @@ niidir="/projects/dsnlab/shared/tag/archive/clean_nii"
 bidsdir="/projects/dsnlab/shared/tag/bids_data"
 
 # Set study info
-sessid="wave1"
-
 declare -a anat="mprage_p2"
 declare -a fmap="fieldmap_2mm"
 declare -a dti="diff"
@@ -36,5 +34,6 @@ convertdti="FALSE"
 convertrest="TRUE"
 converttask="TRUE"
 
-# Set error log file
+# Set log files of new Json files and errors
+newlog="/projects/dsnlab/shared/tag/TAG_scripts/org/bids-conversion/new_Json.txt"
 errorlog="/projects/dsnlab/shared/tag/TAG_scripts/org/bids-conversion/errorlog_Json.txt"
