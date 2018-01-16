@@ -35,5 +35,5 @@ convertrest="TRUE"
 converttask="TRUE"
 
 # Set log files of new Json files and errors
-newlog="/projects/dsnlab/shared/tag/TAG_scripts/org/bids-conversion/new_Json.txt"
-errorlog="/projects/dsnlab/shared/tag/TAG_scripts/org/bids-conversion/errorlog_Json.txt"
+newlog="/projects/dsnlab/shared/tag/TAG_scripts/org/bids-conversion/new_Json.txt" #lists subject-specific functional and anatomical json files that are created.
+errorlog="/projects/dsnlab/shared/tag/TAG_scripts/org/bids-conversion/errorlog_Json.txt" #lists when subjects were not checked by scan (i.e., missing files or wrong number of files)
