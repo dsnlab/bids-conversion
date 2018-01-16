@@ -1,4 +1,0 @@
-ls: cannot access anat: No such file or directory
-ls: cannot access resting: No such file or directory
-ls: cannot access /projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave1/resting/*Resting_2.nii.gz: No such file or directory
-ls: cannot access /projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave1/resting/*Resting_2.nii.gz: No such file or directory

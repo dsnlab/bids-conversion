@@ -1,5 +1,0 @@
-(standard_in) 1: syntax error
-(standard_in) 1: syntax error
-(standard_in) 1: syntax error
-ls: cannot access *DSD_2*info.txt: No such file or directory
-ls: cannot access *DSD_2*info.txt: No such file or directory

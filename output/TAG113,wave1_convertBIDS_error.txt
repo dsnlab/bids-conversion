@@ -1,9 +1,0 @@
-ls: cannot access anat: No such file or directory
-mkdir: cannot create directory ‘dti’: File exists
-du: cannot access ‘*.nii’: No such file or directory
-gzip: *.nii: No such file or directory
-ls: cannot access resting: No such file or directory
-ls: cannot access /projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave1/dti/*diff*.nii.gz: No such file or directory
-ls: cannot access /projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave1/dti/*diff*.nii.gz: No such file or directory
-ls: cannot access /projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave1/task/*DSD_2*.nii.gz: No such file or directory
-ls: cannot access /projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave1/task/*DSD_2*.nii.gz: No such file or directory
