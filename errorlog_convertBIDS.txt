@@ -179,3 +179,1310 @@ TAG127: Wrong number of DICOMS
 /projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave1/task: MISSING DSD_2
 /projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave1/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
 /projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave1/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG001/wave2/resting/010_Resting_2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG001/wave2/resting/011_Resting_2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG247/wave1/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG247/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG247/wave1/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG247/wave1/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG247/wave1/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG247/wave1/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG247/wave1/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG247/wave1/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG247/wave1/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave1/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave1/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave1/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave1/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG240/wave1/anat/006_mprage_p2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG240/wave1/anat/016_mprage_p2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave1/anat/006_mprage_p2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave1/anat/017_mprage_p2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave1/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave1/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG203/wave1/task/011_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG203/wave1/task/012_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG258/wave1/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG258/wave1/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG258/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG258/wave1/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG258/wave1/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG258/wave1/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG258/wave1/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG258/wave1/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG258/wave1/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG165/wave1/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG165/wave1/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG165/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG165/wave1/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG165/wave1/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG165/wave1/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG165/wave1/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG165/wave1/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG165/wave1/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG232/wave1/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG232/wave1/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG232/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG232/wave1/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG232/wave1/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG232/wave1/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG232/wave1/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG232/wave1/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG232/wave1/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG147/wave1/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG147/wave1/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG147/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG147/wave1/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG147/wave1/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG147/wave1/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG147/wave1/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG147/wave1/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG147/wave1/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG266/wave1/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG266/wave1/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG266/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG266/wave1/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG266/wave1/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG266/wave1/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG266/wave1/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG266/wave1/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG266/wave1/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG215/wave1/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG215/wave1/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG215/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG215/wave1/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG215/wave1/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG215/wave1/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG215/wave1/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG215/wave1/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG215/wave1/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG258/wave1/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG258/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG258/wave1/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/task/011_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/task/012_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/task/018_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/task/023_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave1/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG147/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG165/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG147/wave1/task/018_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG147/wave1/task/019_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG165/wave1/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG165/wave1/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG215/wave1/dti/019_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG215/wave1/dti/020_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG215/wave1/dti/021_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG127/wave1/task/011_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG127/wave1/task/016_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG233/wave1/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG233/wave1/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG233/wave1/task/012_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG233/wave1/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG233/wave1/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG253/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG253/wave1/resting/014_Resting_2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG253/wave1/resting/015_Resting_2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG218/wave1/dti/005_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG218/wave1/dti/024_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG218/wave1/dti/025_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+TAG040: Wrong number of DICOMS
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG030/wave2/task/012_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG030/wave2/task/018_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG030/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/resting/005_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/resting/008_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG010/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG010/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG010/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG010/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG010/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG010/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG010/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG010/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG010/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG005/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG005/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG005/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG005/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG005/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG005/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG005/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG005/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG005/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG016/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG016/wave2/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG038/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG038/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG038/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG038/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG038/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG038/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG038/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG038/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG038/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG036/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG036/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG036/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG036/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG036/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG036/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG036/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG036/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG036/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG001/wave2/resting/010_Resting_2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG001/wave2/resting/011_Resting_2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG017/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG017/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG017/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG017/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG017/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG017/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG017/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG017/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG017/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG041/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG041/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG041/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG041/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG041/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG041/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG041/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG041/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG041/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG046/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG046/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG046/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG046/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG046/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG046/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG046/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG046/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG046/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG007/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG007/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG007/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG007/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG007/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG007/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG007/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG007/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG007/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG042/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG042/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG042/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG042/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG042/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG042/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG042/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG042/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG042/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG019/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG019/wave2/task/012_SVC_2_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG045/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/anat/006_mprage_p2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/anat/013_mprage_p2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/task/015_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/task/020_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/task: MISSING DSD_2
+TAG086: Wrong number of DICOMS
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG047/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG047/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG047/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG047/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG047/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG047/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG047/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG047/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG047/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG049/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG049/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG049/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG049/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG049/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG049/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG049/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG049/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG049/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG056/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG056/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG056/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG056/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG056/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG056/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG056/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG056/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG056/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG058/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG058/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG058/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG058/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG058/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG058/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG058/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG058/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG058/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG076/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG076/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG076/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG076/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG076/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG076/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG076/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG076/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG076/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG075/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG075/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG075/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG075/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG075/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG075/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG075/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG075/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG075/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG053/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG053/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG053/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG053/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG053/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG053/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG053/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG053/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG053/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG067/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG067/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG067/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG067/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG067/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG067/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG067/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG067/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG067/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG059/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG059/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG059/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG059/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG059/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG059/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG059/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG059/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG059/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG062/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG062/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG062/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG062/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG062/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG062/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG062/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG062/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG062/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG066/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG066/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG066/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG066/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG066/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG066/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG066/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG066/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG066/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG052/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG052/wave2/task/017_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG071/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG071/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG071/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG071/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG071/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG071/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG071/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG071/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG071/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG070/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG070/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG070/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG070/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG070/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG070/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG070/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG070/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG070/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG064/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG064/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG064/wave2/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG085/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG085/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG085/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG085/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG085/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG085/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG085/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG085/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG085/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG088/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG088/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG088/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG088/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG088/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG088/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG088/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG088/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG088/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG090/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG090/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG090/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG090/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG090/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG090/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG090/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG090/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG090/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG077/wave2/task/014_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG077/wave2/task/019_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG077/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG105/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG105/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG105/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG105/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG105/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG105/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG105/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG105/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG105/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG117/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG117/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG117/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG117/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG117/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG117/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG117/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG117/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG117/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG101/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG101/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG101/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG101/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG101/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG101/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG101/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG101/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG101/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG104/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG104/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG104/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG104/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG104/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG104/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG104/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG104/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG104/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG114/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG114/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG114/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG114/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG114/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG114/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG114/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG114/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG114/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG095/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG095/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG095/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG095/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG095/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG095/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG095/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG095/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG095/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG112/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG112/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG112/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG112/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG112/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG112/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG112/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG112/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG112/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG107/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG107/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG107/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG107/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG107/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG107/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG107/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG107/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG107/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG091/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG091/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG091/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG091/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG091/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG091/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG091/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG091/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG091/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG119/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG119/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG119/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG119/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG119/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG119/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG119/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG119/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG119/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG130/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG130/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG130/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG130/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG130/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG130/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG130/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG099/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG099/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG130/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG099/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG099/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG130/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG099/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG099/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG099/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG099/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG099/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG111/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG111/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG111/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG111/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG111/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG111/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG111/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG111/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG111/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG087/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG087/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task/010_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG131/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG131/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG131/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG131/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG131/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG131/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG131/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG131/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG131/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG132/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG132/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG132/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG132/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG132/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG132/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG132/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG132/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG132/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG138/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG138/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG138/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG138/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG138/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG138/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG138/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG138/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG138/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG141/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG141/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG141/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG141/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG141/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG141/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG141/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG141/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG141/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG140/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG140/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG140/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG140/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG140/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG140/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG140/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG140/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG140/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG160/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG160/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG160/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG160/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG160/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG160/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG160/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG160/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG160/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG164/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG164/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG164/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG164/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG164/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG164/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG164/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG164/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG164/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG144/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG144/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG144/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG144/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG144/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG144/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG144/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG144/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG144/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG159/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG159/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG159/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG159/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG159/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG159/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG159/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG159/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG159/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG149/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG149/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG149/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG149/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG149/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG149/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG149/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG149/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG149/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG177/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG177/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG177/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG177/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG177/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG177/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG177/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG177/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG177/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG181/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG181/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG181/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG181/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG181/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG181/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG181/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG181/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG181/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG186/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG186/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG186/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG186/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG186/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG186/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG186/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG186/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG186/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG176/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG176/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG176/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG176/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG176/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG176/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG176/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG176/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG176/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG194/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG194/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG194/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG194/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG194/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG194/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG194/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG194/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG194/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG124/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG202/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG202/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG202/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG202/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG202/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG202/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG202/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG202/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG202/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG120/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG120/wave2/task/022_SVC_2_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG205/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG205/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG205/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG205/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG205/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG205/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG205/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG205/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG205/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG207/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG207/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG207/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG207/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG207/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG207/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG207/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG207/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG207/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG190/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG190/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG209/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG209/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG209/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG209/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG209/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG209/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG209/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG209/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG209/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG250/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/anat/006_mprage_p2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/anat/017_mprage_p2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave2/dti/021_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave2/dti/023_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave2/dti/025_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/anat/006_mprage_p2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/anat/017_mprage_p2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/009_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/010_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/011_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/014_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/015_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave1/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave1/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave1/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave1/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave1/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave1/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave1/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave1/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG093/wave1/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/resting/005_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/resting/008_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/task/015_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/task/020_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/dti/015_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/dti/016_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/dti/017_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG016/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG016/wave2/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG001/wave2/resting/010_Resting_2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG001/wave2/resting/011_Resting_2.nii.gz
+TAG040: Wrong number of DICOMS
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG040/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG019/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG019/wave2/task/012_SVC_2_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/anat/006_mprage_p2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/anat/013_mprage_p2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/resting/008_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/resting/010_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG030/wave2/task/012_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG030/wave2/task/018_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG030/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG047/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/task/017_SVC_1_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG045/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG052/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG052/wave2/task/017_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG064/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG064/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG064/wave2/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+TAG086: Wrong number of DICOMS
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/anat: MISSING mprage_p2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG086/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG087/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG087/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG077/wave2/task/014_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG077/wave2/task/019_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG077/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/dti/015_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/dti/016_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/dti/017_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task/010_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG105/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/task/011_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/task/012_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task/011_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task/018_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task/017_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG117/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG120/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG120/wave2/task/022_SVC_2_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG124/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/task/017_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/014_fieldmap_2mm_01.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/014_fieldmap_2mm_02.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/015_fieldmap_2mm.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/022_fieldmap_2mm_01.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/022_fieldmap_2mm_02.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/023_fieldmap_2mm.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/task/012_SVC_1_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG176/wave2/dti/019_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG190/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG190/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/task/016_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/task/017_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG250/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/009_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/010_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/011_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/014_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/015_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave2/dti/021_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave2/dti/023_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave2/dti/025_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/resting/005_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/resting/008_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG001/wave2/resting/010_Resting_2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG001/wave2/resting/011_Resting_2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/dti/015_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/dti/016_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/dti/017_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG045/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG047/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/resting/008_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/resting/010_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/task/017_SVC_1_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/task/015_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/task/020_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG016/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG016/wave2/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG030/wave2/task/012_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG030/wave2/task/018_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG019/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG019/wave2/task/012_SVC_2_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG030/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG052/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG052/wave2/task/017_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG064/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG064/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG064/wave2/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG105/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/dti/015_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/dti/016_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/dti/017_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG117/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG124/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task/010_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG087/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG087/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG120/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG120/wave2/task/022_SVC_2_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG077/wave2/task/014_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG077/wave2/task/019_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/task/011_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/task/012_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task/011_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task/018_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task/017_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG077/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG190/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/014_fieldmap_2mm_01.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/014_fieldmap_2mm_02.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/015_fieldmap_2mm.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/022_fieldmap_2mm_01.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/022_fieldmap_2mm_02.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/023_fieldmap_2mm.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/task/012_SVC_1_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG176/wave2/dti/019_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG190/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/task/017_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/task/016_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/task/017_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave2/dti/021_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave2/dti/023_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave2/dti/025_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG250/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/009_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/010_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/011_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/014_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/015_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/resting/008_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/resting/010_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG001/wave2/resting/010_Resting_2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG001/wave2/resting/011_Resting_2.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG047/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG045/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/resting/005_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/resting/008_Resting_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/dti/015_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/dti/016_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG014/wave2/dti/017_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG027/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG030/wave2/task/012_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG030/wave2/task/018_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/task/015_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/task/020_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG028/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG024/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG008/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG030/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING SVC_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG009/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG016/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG016/wave2/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG048/wave2/task/017_SVC_1_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG002/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG019/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG019/wave2/task/012_SVC_2_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG052/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG052/wave2/task/017_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG015/wave2/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG064/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG064/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG064/wave2/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/task/009_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG068/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG105/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG117/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG124/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/dti/015_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/dti/016_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG084/wave2/dti/017_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG113/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/task/011_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG103/wave2/task/012_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG077/wave2/task/014_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG077/wave2/task/019_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task/010_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG078/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG106/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG089/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG120/wave2/task/010_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG120/wave2/task/022_SVC_2_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG087/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG077/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG087/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG080/wave2/task/015_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task/011_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task/018_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG094/wave2/task/017_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG176/wave2/dti/019_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/014_fieldmap_2mm_01.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/014_fieldmap_2mm_02.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/015_fieldmap_2mm.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/022_fieldmap_2mm_01.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/022_fieldmap_2mm_02.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG167/wave2/fmap/023_fieldmap_2mm.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG190/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/resting: MISSING Resting_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/resting: MISSING Resting_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/task: MISSING SVC_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/task: MISSING DSD_1
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG211/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG169/wave2/task/012_SVC_1_bold_mb3_g2_2mm_te25_split_1.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/task/016_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG208/wave2/task/017_DSD_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG190/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/task/014_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG143/wave2/task/017_DSD_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave2/dti/021_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave2/dti/023_diff_mb2_g2_64dirs_2mm_rl.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG252/wave2/dti/025_diff_mb2_g2_64dirs_2mm_lr.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave2/fmap: MISSING fieldmap_2mm
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG250/wave2/dti: MISSING diff
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/007_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/008_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/009_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/010_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/011_SVC_1_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG261/wave2/task: MISSING DSD_2
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/014_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+/projects/dsnlab/shared/tag/archive/clean_nii/TAG244/wave2/task/015_SVC_2_bold_mb3_g2_2mm_te25.nii.gz
+: Wrong number of DICOMS
